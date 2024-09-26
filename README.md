@@ -1,6 +1,6 @@
-### INF601 Advanced Python
-### Kadin Heacock
-### Mini Project 2
+#### INF601 Advanced Python
+#### Kadin Heacock
+#### Mini Project 2
 
 # Miniproject2
 
