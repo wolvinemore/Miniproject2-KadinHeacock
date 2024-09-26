@@ -1,5 +1,3 @@
-# Miniproject2
-Graphing data using matplotlib, pandas as well as other useful imports.
 ### INF601 Advanced Python
 ### Kadin Heacock
 ### Mini Project 1
