@@ -8,8 +8,10 @@ Graphing data using matplotlib, pandas as well as other useful imports.
 
 # Description
 
-This project's purpose is to demonstrate the ability to pull external data and create 5 graphs using python.
-This data is especially handy when doing long term trading and looking at charts for future investments.
+This project's purpose is to demonstrate the ability to pull external data and create 2D data as a dataframe using python.
+This data is especially handy when looking at the global economic impact on food prices. gicing indicators of what country's are having food shortages.
+
+Go to https://www.kaggle.com/datasets/anshtanwar/monthly-food-price-estimates/data to see original data source.
 
 ## Getting Started
 
