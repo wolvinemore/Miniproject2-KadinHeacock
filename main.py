@@ -14,6 +14,8 @@ import pprint
 # Reading the .csv file
 data = pd.read_csv( filepath_or_buffer='WLD_RTFP_country_2023-10-02.csv', index_col=0, parse_dates=True)
 
+print()
+
 plt.show()
 
 for i in ticker:
