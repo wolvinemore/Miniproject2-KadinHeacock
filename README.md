@@ -4,12 +4,13 @@
 
 # Miniproject2
 
-Graphing data using matplotlib, pandas as well as other useful imports.
+Graphing data using matplotlib, pandas as well as other useful imports. 
 
 # Description
 
+I wanted to see the inflation rate on food in other countries and was curious how other countries are doing. 
+
 This project's purpose is to demonstrate the ability to pull external data and create 2D data as a dataframe using python.
-This data is especially handy when looking at the global economic impact on food prices. gicing indicators of what country's are having food shortages.
 
 Go to https://www.kaggle.com/datasets/anshtanwar/monthly-food-price-estimates/data to see original data source. This data was gathered by Ansh Tanwar on kaggle.com
 
@@ -44,4 +45,3 @@ Kadin Heacock
 
 [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-use-yfinance-api-with-python/)
 
-[yfinance](https://pypi.org/project/yfinance/)
