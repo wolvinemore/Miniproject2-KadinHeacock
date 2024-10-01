@@ -45,3 +45,4 @@ Kadin Heacock
 
 [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-use-yfinance-api-with-python/)
 
+[Matplotlib site](https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_colors.html#sphx-glr-gallery-lines-bars-and-markers-bar-colors-py)
