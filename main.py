@@ -29,9 +29,6 @@ def col():
     # Graphically display the country's and there inflation percentage in 2023
 if len(country) == 1:
 
-    # Setting figures
-    fig, ax = plt.subplots()
-
     # Example: Plot the first numeric column against the index
     plt.figure(figsize=(10, 6))
     plt.plot(data.index, data.iloc[:, 0], label=data.columns[1])  # Plotting the first numeric column
@@ -44,7 +41,6 @@ if len(country) == 1:
     plt.legend()
     plt.grid()
     plt.tight_layout()
-  #  row.plot(title=f'Row {index}', xlabel='Column Index', ylabel='Value')
     plt.savefig(f'Charts\\{country}.png')
     plt.show()
 else:
