@@ -1,6 +1,6 @@
 ### INF601 - Advanced Programming in Python
 ### Kadin Heacock
-### Miniproject1
+### Miniproject2
 
 # imports
 import os
